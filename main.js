@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['MANY','','MORE','','HAPPY','','RETURNS','','OF','','THE','','DAY','','FATHIMA','','RASHIDHA❣️','','MAY ALLAH','','BLESS','','YOU','','FOR THE','','GREAT FUTURE 🌟','','GRANT U','','JANNAH 🕊️💓']
+  let texts = ['MANY','','MORE','','HAPPY','','RETURNS','','OF','','THE','','DAY','','FATHIMA','','RASHIDHA❣️','','MAY ALLAH','','BLESS','','YOU','','FOR THE','','GREAT FUTURE','','GRANT U','','JANNAH 🕊️💓']
 
   let canvas,
     ctx,
